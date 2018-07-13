@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS homestead;CREATE DATABASE homestead;
